@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>My Personal Introduction</title>
+<style>
+For the body:
+    body {
+            background-color:9DA0A3;
+    }
+
+h1 {
+  color:141D35;
+}
+
+p {
+color:7A9486;
+}
+</style>
+<h1>My name is Greg Liebman</h1>
+<p>I am a transfer student at Wake Tech Community College currently studying Cybersecurity in hopes of accomplishing an associates degree.</p>
+<p>In my free time, I enjoy driving, hanging out with my girlfriend, video games, and working.</p>
+</head>
+<body>
+</body>
+</html>
